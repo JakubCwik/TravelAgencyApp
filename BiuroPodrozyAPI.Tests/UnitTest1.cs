@@ -31,7 +31,6 @@ namespace BiuroPodrozyAPI.Tests
             {
                 Id = 1,
                 Name = "Example Travel Agency"
-                // Tutaj dodaj inne w³aœciwoœci biura podró¿y, które chcesz przetestowaæ
             };
 
             var mockService = new Mock<ITravelAgencyService>();
@@ -39,7 +38,7 @@ namespace BiuroPodrozyAPI.Tests
             var controller = new TravelAgencyController(mockService.Object);
 
             // Act
-            var result = controller.GetTravelAgencyById(1); // Istniej¹ce ID biura podró¿y
+            var result = controller.GetTravelAgencyById(1);
 
             // Assert
             Assert.IsInstanceOf<OkObjectResult>(result.Result);
@@ -49,7 +48,6 @@ namespace BiuroPodrozyAPI.Tests
             var returnedTravelAgency = okResult.Value as TravelAgencyDto;
             Assert.AreEqual(expectedTravelAgencyDto.Id, returnedTravelAgency.Id);
             Assert.AreEqual(expectedTravelAgencyDto.Name, returnedTravelAgency.Name);
-            // SprawdŸ inne w³aœciwoœci biura podró¿y, jeœli to konieczne
         }
 
 
@@ -60,6 +58,7 @@ namespace BiuroPodrozyAPI.Tests
         {
             ITravelAgencyService _travelAgencyService = new TravelAgencyService(null, null, null);
         }
+
         // Sprawdzenie czy metoda GetByID zwraca oczekiwane dane dla danego id
         [Test]
         public void GetTravelAgencyById_WithValidId_ReturnsExpectedTravelAgency()
