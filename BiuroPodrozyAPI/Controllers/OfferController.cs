@@ -39,6 +39,21 @@ namespace BiuroPodrozyAPI.Controllers
             return Ok(offer);
         }
 
+        [HttpGet("sortedbyprice")]
+        public ActionResult<List<OfferDto>> GetSortedByPrice([FromRoute] int travelAgencyId)
+        {
+            var result = _offerService.GetAllSortedByPrice(travelAgencyId);
+            return Ok(result);
+
+        }
+
+        [HttpPost("bydestination")]
+        public ActionResult<List<OfferDto>> GetByDestination([FromRoute] int travelAgencyId, [FromBody] OfferDto offerModel)
+        {
+            var result = _offerService.GetByDestination(travelAgencyId, offerModel.Destination);
+            return Ok(result);
+        }
+
         [HttpGet]
         public ActionResult<List<OfferDto>> Get([FromRoute] int travelAgencyId)
         {
