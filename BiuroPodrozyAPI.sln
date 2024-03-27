@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiuroPodrozyAPI", "BiuroPodrozyAPI\BiuroPodrozyAPI.csproj", "{9E37E6D5-6211-411A-BEC5-7B32247E379D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiuroPodrozyAPI", "BiuroPodrozyAPI\BiuroPodrozyAPI.csproj", "{9E37E6D5-6211-411A-BEC5-7B32247E379D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiuroPodrozyAPI.Tests", "BiuroPodrozyAPI.Tests\BiuroPodrozyAPI.Tests.csproj", "{483CE2F4-16AE-4367-BC17-BB0733459242}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9E37E6D5-6211-411A-BEC5-7B32247E379D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E37E6D5-6211-411A-BEC5-7B32247E379D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E37E6D5-6211-411A-BEC5-7B32247E379D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483CE2F4-16AE-4367-BC17-BB0733459242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483CE2F4-16AE-4367-BC17-BB0733459242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483CE2F4-16AE-4367-BC17-BB0733459242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483CE2F4-16AE-4367-BC17-BB0733459242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

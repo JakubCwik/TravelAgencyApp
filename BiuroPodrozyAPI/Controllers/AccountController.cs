@@ -10,7 +10,7 @@ namespace BiuroPodrozyAPI.Controllers
     {
         private readonly IAccountService _accountService;
 
-        public AccountController(IAccountService accountService)
+        public AccountController(Microsoft.AspNetCore.Identity.SignInManager<Entitties.User> @object, IAccountService accountService)
         {
             _accountService = accountService;
         }

@@ -14,6 +14,8 @@ namespace BiuroPodrozyAPI.Services
         int Create(int travelAgencyId, CreateOfferDto dto);
         OfferDto GetById(int travelAgencyId, int offerId);
         List<OfferDto> GetAll(int travelAgencyId);
+        List<OfferDto> GetAllSortedByPrice(int travelAgencyId);
+        List<OfferDto> GetByDestination(int travelAgencyId, string destination);
         void RemoveAll(int travelAgencyId);
     }
 
@@ -63,6 +65,20 @@ namespace BiuroPodrozyAPI.Services
             var travelAgency = GetTravelAgencyById(travelAgencyId);
             var offerDtos = _mapper.Map<List<OfferDto>>(travelAgency.Offers);
 
+            return offerDtos;
+        }
+
+        public List<OfferDto> GetAllSortedByPrice(int travelAgencyId)
+        {
+            var travelAgency = GetTravelAgencyById(travelAgencyId);
+            var offerDtos = _mapper.Map<List<OfferDto>>(travelAgency.Offers.OrderBy(o => o.Price));
+            return offerDtos;
+        }
+
+        public List<OfferDto> GetByDestination(int travelAgencyId, string destination)
+        {
+            var travelAgency = GetTravelAgencyById(travelAgencyId);
+            var offerDtos = _mapper.Map<List<OfferDto>>(travelAgency.Offers.Where(o => o.Destination == destination));
             return offerDtos;
         }
 
