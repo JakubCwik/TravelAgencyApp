@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  biuropodrozyapi:
+    image: ${DOCKER_REGISTRY-}biuropodrozyapi
+    build:
+      context: .
+      dockerfile: BiuroPodrozyAPI\Dockerfile

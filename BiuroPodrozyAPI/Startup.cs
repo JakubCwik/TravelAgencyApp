@@ -1,4 +1,5 @@
 using AutoMapper;
+using BiuroPodrozyAPI.Authorization;
 using BiuroPodrozyAPI.Entitties;
 using BiuroPodrozyAPI.Middleware;
 using BiuroPodrozyAPI.Models;
@@ -6,6 +7,7 @@ using BiuroPodrozyAPI.Models.Validators;
 using BiuroPodrozyAPI.Services;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -54,9 +56,14 @@ namespace BiuroPodrozyAPI
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(authenticationSettings.JwtKey)),
                 };
             });
+            services.AddAuthorization(option =>
+            {
+                option.AddPolicy("HasNationality", builder => builder.RequireClaim("Nationality", "German", "Polish"));
+                option.AddPolicy("Atleast18", builder => builder.AddRequirements(new MinimumAgeRequirement(18)));
+            });
 
-
-
+            services.AddScoped<IAuthorizationHandler, MinimumAgeRequirementHandler>();
+            services.AddScoped<IAuthorizationHandler, ResourceOperationRequirementHandler>();
             services.AddControllers().AddFluentValidation();
             //services.AddRazorPages();
             services.AddDbContext<TravelAgencyDbContext>();
@@ -101,7 +108,7 @@ namespace BiuroPodrozyAPI
             app.UseStaticFiles();
 
             app.UseRouting();
-            
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
