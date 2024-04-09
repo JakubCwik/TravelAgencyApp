@@ -508,3 +508,243 @@
 2024-03-27 11:19:51.9858 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
 2024-03-27 11:19:52.0090 Info Configuration initialized.
 2024-03-27 11:19:52.0090 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-03-27 12:28:56.0970 Info Message Template Auto Format enabled
+2024-03-27 12:28:56.0970 Info Loading assembly: NLog.Web.AspNetCore
+2024-03-27 12:28:56.1241 Info Adding target FileTarget(Name=request-time)
+2024-03-27 12:28:56.1241 Info Adding target FileTarget(Name=exceptions)
+2024-03-27 12:28:56.1241 Info Adding target FileTarget(Name=allfile)
+2024-03-27 12:28:56.1412 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-03-27 12:28:56.1522 Info Configuration initialized.
+2024-03-27 12:28:56.1522 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-03-27 12:41:59.1740 Info Message Template Auto Format enabled
+2024-03-27 12:41:59.1868 Info Loading assembly: NLog.Web.AspNetCore
+2024-03-27 12:41:59.2305 Info Adding target FileTarget(Name=request-time)
+2024-03-27 12:41:59.2305 Info Adding target FileTarget(Name=exceptions)
+2024-03-27 12:41:59.2305 Info Adding target FileTarget(Name=allfile)
+2024-03-27 12:41:59.2549 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-03-27 12:41:59.2688 Info Configuration initialized.
+2024-03-27 12:41:59.2688 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-03-27 12:44:50.8482 Info Message Template Auto Format enabled
+2024-03-27 12:44:50.8482 Info Loading assembly: NLog.Web.AspNetCore
+2024-03-27 12:44:50.8707 Info Adding target FileTarget(Name=request-time)
+2024-03-27 12:44:50.8707 Info Adding target FileTarget(Name=exceptions)
+2024-03-27 12:44:50.8707 Info Adding target FileTarget(Name=allfile)
+2024-03-27 12:44:50.8861 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-03-27 12:44:50.8861 Info Configuration initialized.
+2024-03-27 12:44:50.8861 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-03-27 12:45:18.6897 Info Message Template Auto Format enabled
+2024-03-27 12:45:18.6897 Info Loading assembly: NLog.Web.AspNetCore
+2024-03-27 12:45:18.7187 Info Adding target FileTarget(Name=request-time)
+2024-03-27 12:45:18.7187 Info Adding target FileTarget(Name=exceptions)
+2024-03-27 12:45:18.7187 Info Adding target FileTarget(Name=allfile)
+2024-03-27 12:45:18.7385 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-03-27 12:45:18.7498 Info Configuration initialized.
+2024-03-27 12:45:18.7498 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-03 17:25:54.8986 Info Message Template Auto Format enabled
+2024-04-03 17:25:54.9159 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-03 17:25:54.9765 Info Adding target FileTarget(Name=request-time)
+2024-04-03 17:25:54.9765 Info Adding target FileTarget(Name=exceptions)
+2024-04-03 17:25:54.9765 Info Adding target FileTarget(Name=allfile)
+2024-04-03 17:25:55.0206 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-03 17:25:55.0393 Info Configuration initialized.
+2024-04-03 17:25:55.0393 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-03 17:29:59.0054 Info Message Template Auto Format enabled
+2024-04-03 17:29:59.0198 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-03 17:29:59.0724 Info Adding target FileTarget(Name=request-time)
+2024-04-03 17:29:59.0739 Info Adding target FileTarget(Name=exceptions)
+2024-04-03 17:29:59.0739 Info Adding target FileTarget(Name=allfile)
+2024-04-03 17:29:59.1151 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-03 17:29:59.1469 Info Configuration initialized.
+2024-04-03 17:29:59.1469 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-03 17:30:58.5159 Info AppDomain Shutting down. Logger closing...
+2024-04-03 17:30:58.5436 Info Logger has been shut down.
+2024-04-03 17:35:03.3964 Info Message Template Auto Format enabled
+2024-04-03 17:35:03.4047 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-03 17:35:03.4382 Info Adding target FileTarget(Name=request-time)
+2024-04-03 17:35:03.4382 Info Adding target FileTarget(Name=exceptions)
+2024-04-03 17:35:03.4382 Info Adding target FileTarget(Name=allfile)
+2024-04-03 17:35:03.4672 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-03 17:35:03.4894 Info Configuration initialized.
+2024-04-03 17:35:03.4894 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 16:02:26.6619 Info Message Template Auto Format enabled
+2024-04-07 16:02:26.6859 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 16:02:26.7376 Info Adding target FileTarget(Name=request-time)
+2024-04-07 16:02:26.7376 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 16:02:26.7376 Info Adding target FileTarget(Name=allfile)
+2024-04-07 16:02:26.7934 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 16:02:26.8208 Info Configuration initialized.
+2024-04-07 16:02:26.8208 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 16:17:53.5603 Info Message Template Auto Format enabled
+2024-04-07 16:17:53.5603 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 16:17:53.5958 Info Adding target FileTarget(Name=request-time)
+2024-04-07 16:17:53.5958 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 16:17:53.5958 Info Adding target FileTarget(Name=allfile)
+2024-04-07 16:17:53.6193 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 16:17:53.6338 Info Configuration initialized.
+2024-04-07 16:17:53.6338 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 16:20:05.8668 Info Message Template Auto Format enabled
+2024-04-07 16:20:05.8778 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 16:20:05.9340 Info Adding target FileTarget(Name=request-time)
+2024-04-07 16:20:05.9340 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 16:20:05.9340 Info Adding target FileTarget(Name=allfile)
+2024-04-07 16:20:05.9661 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 16:20:05.9895 Info Configuration initialized.
+2024-04-07 16:20:05.9895 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 16:20:06.3671 Info Message Template Auto Format enabled
+2024-04-07 16:20:06.3768 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 16:20:06.4085 Info Adding target FileTarget(Name=request-time)
+2024-04-07 16:20:06.4085 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 16:20:06.4085 Info Adding target FileTarget(Name=allfile)
+2024-04-07 16:20:06.4339 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 16:20:06.4565 Info Configuration initialized.
+2024-04-07 16:20:06.4565 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 16:28:53.7073 Info AppDomain Shutting down. Logger closing...
+2024-04-07 16:28:53.7310 Info Logger has been shut down.
+2024-04-07 16:29:22.6920 Info Message Template Auto Format enabled
+2024-04-07 16:29:22.7011 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 16:29:22.7321 Info Adding target FileTarget(Name=request-time)
+2024-04-07 16:29:22.7321 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 16:29:22.7321 Info Adding target FileTarget(Name=allfile)
+2024-04-07 16:29:22.7560 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 16:29:22.7751 Info Configuration initialized.
+2024-04-07 16:29:22.7751 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 16:30:09.8170 Info Message Template Auto Format enabled
+2024-04-07 16:30:09.8277 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 16:30:09.8610 Info Adding target FileTarget(Name=request-time)
+2024-04-07 16:30:09.8610 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 16:30:09.8610 Info Adding target FileTarget(Name=allfile)
+2024-04-07 16:30:09.8903 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 16:30:09.9093 Info Configuration initialized.
+2024-04-07 16:30:09.9093 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 16:45:29.8819 Info Message Template Auto Format enabled
+2024-04-07 16:45:29.8874 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 16:45:29.9057 Info Adding target FileTarget(Name=request-time)
+2024-04-07 16:45:29.9057 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 16:45:29.9057 Info Adding target FileTarget(Name=allfile)
+2024-04-07 16:45:29.9227 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 16:45:29.9227 Info Configuration initialized.
+2024-04-07 16:45:29.9227 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 17:31:50.1003 Info Message Template Auto Format enabled
+2024-04-07 17:31:50.1049 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 17:31:50.1252 Info Adding target FileTarget(Name=request-time)
+2024-04-07 17:31:50.1252 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 17:31:50.1252 Info Adding target FileTarget(Name=allfile)
+2024-04-07 17:31:50.1403 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 17:31:50.1526 Info Configuration initialized.
+2024-04-07 17:31:50.1526 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 17:34:43.7338 Info Message Template Auto Format enabled
+2024-04-07 17:34:43.7338 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 17:34:43.7632 Info Adding target FileTarget(Name=request-time)
+2024-04-07 17:34:43.7632 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 17:34:43.7632 Info Adding target FileTarget(Name=allfile)
+2024-04-07 17:34:43.7799 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 17:34:43.7799 Info Configuration initialized.
+2024-04-07 17:34:43.7799 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 22:31:32.7363 Info Message Template Auto Format enabled
+2024-04-07 22:31:32.7534 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 22:31:32.8210 Info Adding target FileTarget(Name=request-time)
+2024-04-07 22:31:32.8210 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 22:31:32.8210 Info Adding target FileTarget(Name=allfile)
+2024-04-07 22:31:32.8808 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 22:31:32.9190 Info Configuration initialized.
+2024-04-07 22:31:32.9190 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 22:34:43.5650 Info AppDomain Shutting down. Logger closing...
+2024-04-07 22:34:43.5842 Info Logger has been shut down.
+2024-04-07 22:35:19.9606 Info Message Template Auto Format enabled
+2024-04-07 22:35:19.9753 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 22:35:20.0252 Info Adding target FileTarget(Name=request-time)
+2024-04-07 22:35:20.0252 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 22:35:20.0273 Info Adding target FileTarget(Name=allfile)
+2024-04-07 22:35:20.0657 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 22:35:20.0936 Info Configuration initialized.
+2024-04-07 22:35:20.0936 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-07 22:37:49.0585 Info Message Template Auto Format enabled
+2024-04-07 22:37:49.0585 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-07 22:37:49.0910 Info Adding target FileTarget(Name=request-time)
+2024-04-07 22:37:49.0910 Info Adding target FileTarget(Name=exceptions)
+2024-04-07 22:37:49.0910 Info Adding target FileTarget(Name=allfile)
+2024-04-07 22:37:49.1138 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-07 22:37:49.1285 Info Configuration initialized.
+2024-04-07 22:37:49.1285 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 15:52:39.4857 Info Message Template Auto Format enabled
+2024-04-08 15:52:39.4999 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 15:52:39.5316 Info Adding target FileTarget(Name=request-time)
+2024-04-08 15:52:39.5316 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 15:52:39.5316 Info Adding target FileTarget(Name=allfile)
+2024-04-08 15:52:39.5544 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 15:52:39.5681 Info Configuration initialized.
+2024-04-08 15:52:39.5681 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 15:59:09.7960 Info Message Template Auto Format enabled
+2024-04-08 15:59:09.8005 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 15:59:09.8180 Info Adding target FileTarget(Name=request-time)
+2024-04-08 15:59:09.8180 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 15:59:09.8180 Info Adding target FileTarget(Name=allfile)
+2024-04-08 15:59:09.8323 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 15:59:09.8323 Info Configuration initialized.
+2024-04-08 15:59:09.8323 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 15:59:10.5009 Info AppDomain Shutting down. Logger closing...
+2024-04-08 15:59:10.5090 Info Logger has been shut down.
+2024-04-08 15:59:19.7783 Info Message Template Auto Format enabled
+2024-04-08 15:59:19.7783 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 15:59:19.8004 Info Adding target FileTarget(Name=request-time)
+2024-04-08 15:59:19.8004 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 15:59:19.8004 Info Adding target FileTarget(Name=allfile)
+2024-04-08 15:59:19.8156 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 15:59:19.8156 Info Configuration initialized.
+2024-04-08 15:59:19.8156 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 15:59:20.6842 Info AppDomain Shutting down. Logger closing...
+2024-04-08 15:59:20.6931 Info Logger has been shut down.
+2024-04-08 16:00:13.5238 Info Message Template Auto Format enabled
+2024-04-08 16:00:13.5238 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 16:00:13.5460 Info Adding target FileTarget(Name=request-time)
+2024-04-08 16:00:13.5460 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 16:00:13.5460 Info Adding target FileTarget(Name=allfile)
+2024-04-08 16:00:13.5606 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 16:00:13.5700 Info Configuration initialized.
+2024-04-08 16:00:13.5700 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 16:00:14.4094 Info AppDomain Shutting down. Logger closing...
+2024-04-08 16:00:14.4094 Info Logger has been shut down.
+2024-04-08 16:00:43.8416 Info Message Template Auto Format enabled
+2024-04-08 16:00:43.8478 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 16:00:43.8687 Info Adding target FileTarget(Name=request-time)
+2024-04-08 16:00:43.8687 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 16:00:43.8687 Info Adding target FileTarget(Name=allfile)
+2024-04-08 16:00:43.8848 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 16:00:43.8959 Info Configuration initialized.
+2024-04-08 16:00:43.8959 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 16:00:44.5664 Info AppDomain Shutting down. Logger closing...
+2024-04-08 16:00:44.5664 Info Logger has been shut down.
+2024-04-08 16:00:48.8081 Info Message Template Auto Format enabled
+2024-04-08 16:00:48.8081 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 16:00:48.8310 Info Adding target FileTarget(Name=request-time)
+2024-04-08 16:00:48.8310 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 16:00:48.8310 Info Adding target FileTarget(Name=allfile)
+2024-04-08 16:00:48.8461 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 16:00:48.8461 Info Configuration initialized.
+2024-04-08 16:00:48.8461 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 16:00:49.6421 Info AppDomain Shutting down. Logger closing...
+2024-04-08 16:00:49.6505 Info Logger has been shut down.
+2024-04-08 21:59:13.8322 Info Message Template Auto Format enabled
+2024-04-08 21:59:13.8322 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 21:59:13.8780 Info Adding target FileTarget(Name=request-time)
+2024-04-08 21:59:13.8780 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 21:59:13.8780 Info Adding target FileTarget(Name=allfile)
+2024-04-08 21:59:13.9121 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 21:59:13.9343 Info Configuration initialized.
+2024-04-08 21:59:13.9343 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 22:28:40.0531 Info Message Template Auto Format enabled
+2024-04-08 22:28:40.0667 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 22:28:40.1161 Info Adding target FileTarget(Name=request-time)
+2024-04-08 22:28:40.1161 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 22:28:40.1161 Info Adding target FileTarget(Name=allfile)
+2024-04-08 22:28:40.1504 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 22:28:40.1786 Info Configuration initialized.
+2024-04-08 22:28:40.1786 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-08 22:36:45.7727 Info Message Template Auto Format enabled
+2024-04-08 22:36:45.7727 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-08 22:36:45.8135 Info Adding target FileTarget(Name=request-time)
+2024-04-08 22:36:45.8149 Info Adding target FileTarget(Name=exceptions)
+2024-04-08 22:36:45.8149 Info Adding target FileTarget(Name=allfile)
+2024-04-08 22:36:45.8418 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=C:\Users\Kuba\OneDrive\Pulpit\Studia_1_sem\ZTP\BiuroPodrozyAPI\BiuroPodrozyAPI\bin\Debug\net5.0\NLog.config
+2024-04-08 22:36:45.8562 Info Configuration initialized.
+2024-04-08 22:36:45.8562 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False

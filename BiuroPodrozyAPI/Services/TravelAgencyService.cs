@@ -1,11 +1,15 @@
 ﻿using AutoMapper;
+using BiuroPodrozyAPI.Authorization;
 using BiuroPodrozyAPI.Entitties;
 using BiuroPodrozyAPI.Exceptions;
 using BiuroPodrozyAPI.Models;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 
 namespace BiuroPodrozyAPI.Services
 {
@@ -14,15 +18,17 @@ namespace BiuroPodrozyAPI.Services
         private readonly TravelAgencyDbContext _dbContext;
         private readonly IMapper _mapper;
         private readonly ILogger<TravelAgencyService> _logger;
+        private readonly IAuthorizationService _authorizationService;
 
-        public TravelAgencyService(TravelAgencyDbContext dbContext, IMapper mapper, ILogger<TravelAgencyService> logger)
+        public TravelAgencyService(TravelAgencyDbContext dbContext, IMapper mapper, ILogger<TravelAgencyService> logger, IAuthorizationService authenticationService)
         {
             _dbContext = dbContext;
             _mapper = mapper;
             _logger = logger;
+            _authorizationService = authenticationService;
         }
 
-        public void Delete(int id)
+        public void Delete(int id, ClaimsPrincipal user)
         {
             var travelAgencyById = _dbContext
                .TravelAgencies
@@ -31,6 +37,14 @@ namespace BiuroPodrozyAPI.Services
             if(travelAgencyById is null)
             {
                 throw new NotFoundException("Travel agency not found");
+            }
+
+            var authorizationResult = _authorizationService.AuthorizeAsync(user, travelAgencyById,
+                new ResourceOperationRequirement(ResourceOperation.Delete)).Result;
+
+            if (!authorizationResult.Succeeded)
+            {
+                throw new ForbidException();
             }
 
             _dbContext.TravelAgencies.Remove(travelAgencyById);
@@ -85,16 +99,17 @@ namespace BiuroPodrozyAPI.Services
             return travelAgencyDtos;
         }
 
-        public int Create(CreateTravelAgencyDto dto)
+        public int Create(CreateTravelAgencyDto dto, int userId)
         {
             var travelAgency = _mapper.Map<TravelAgency>(dto);
+            travelAgency.CreatedById = userId;
             _dbContext.TravelAgencies.Add(travelAgency);
             _dbContext.SaveChanges();
 
             return travelAgency.Id;
         }
 
-        public void Update(int id, UpdateTravelAgencyDto dto)
+        public void Update(int id, UpdateTravelAgencyDto dto, ClaimsPrincipal user)
         {
             var travelAgency = _dbContext
               .TravelAgencies
@@ -102,6 +117,15 @@ namespace BiuroPodrozyAPI.Services
 
             if (travelAgency is null)
                 throw new NotFoundException("Travel agency not found");
+
+
+            var authorizationResult = _authorizationService.AuthorizeAsync(user, travelAgency, 
+                new ResourceOperationRequirement(ResourceOperation.Update)).Result;
+
+            if(!authorizationResult.Succeeded)
+            {
+                throw new ForbidException();
+            }
 
             travelAgency.Name = dto.Name;
             travelAgency.Description = dto.Description;
