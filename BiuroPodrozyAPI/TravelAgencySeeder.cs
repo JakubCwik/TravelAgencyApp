@@ -15,16 +15,16 @@ namespace BiuroPodrozyAPI
         }
         public void Seed()
         {
-            if(_dbContext.Database.CanConnect())
+            if (_dbContext.Database.CanConnect())
             {
-                if(!_dbContext.Roles.Any())
+                if (!_dbContext.Roles.Any())
                 {
                     var roles = GetRoles();
                     _dbContext.Roles.AddRange(roles);
                     _dbContext.SaveChanges();
                 }
 
-                if(!_dbContext.TravelAgencies.Any())
+                if (!_dbContext.TravelAgencies.Any())
                 {
                     var travelAgency = GetTravelAgency();
                     _dbContext.TravelAgencies.AddRange(travelAgency);

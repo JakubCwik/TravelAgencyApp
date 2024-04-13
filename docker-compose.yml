@@ -1,8 +1,28 @@
 version: '3.4'
 
+networks:
+  biuropodrozyapinetwork:
+
 services:
+  biuropodrozyapiDB:
+    container_name: biuropodrozyapiDB
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+     - 1433:1433
+    environment:
+     - ACCEPT_EULA= "Y"
+     - SA_PASSWORD="Password12345#"
+    networks:
+     - biuropodrozyapinetwork
   biuropodrozyapi:
+    container_name: biuropodrozyapi
+    ports:
+     - 8001:80
     image: ${DOCKER_REGISTRY-}biuropodrozyapi
     build:
       context: .
-      dockerfile: BiuroPodrozyAPI\Dockerfile
+      dockerfile: BiuroPodrozyAPI/Dockerfile
+    depends_on:
+     - biuropodrozyapiDB
+    networks:
+     - biuropodrozyapinetwork
