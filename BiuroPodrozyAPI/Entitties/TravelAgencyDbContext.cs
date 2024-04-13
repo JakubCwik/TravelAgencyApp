@@ -1,10 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace BiuroPodrozyAPI.Entitties
 {
     public class TravelAgencyDbContext : DbContext
     {
-        private string _connectionString = @"Server=LAPTOP-TG9368EE;database=TravelAgencyDb;Integrated Security = SSPI;Encrypt=false";
+
+        //private string _connectionString = @"Server=LAPTOP-TG9368EE;database=TravelAgencyDb;Integrated Security = SSPI;Encrypt=false";
+        private string _connectionString = "Server=biuropodrozyapiDB;Database=TravelAgencyDb;User Id=sa;Password=Password12345@;";
+        //private string _connectionString = @"Data Source:biuropodrozyapiDB; Initial Catalog=TravelAgencyDb; User ID=sa; Password=Password12345@;";
+
         public DbSet<Address> Addresses { get; set; }
         public DbSet<TravelAgency> TravelAgencies { get; set; }
         public DbSet<Offer> Offers { get; set; }

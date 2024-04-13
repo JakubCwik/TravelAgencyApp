@@ -14,7 +14,7 @@ namespace BiuroPodrozyAPI.Controllers
 {
     [Route("travelagency")]
     [ApiController]
-    [Authorize]
+   // [Authorize]
     public class TravelAgencyController :  ControllerBase
     {
         private readonly ITravelAgencyService _travelAgencyService;
@@ -35,7 +35,7 @@ namespace BiuroPodrozyAPI.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin,Manager")]
+        //[Authorize(Roles = "Admin,Manager")]
         public ActionResult CreateTravelAgency([FromBody]CreateTravelAgencyDto dto)
         {
             var userId = int.Parse(User.FindFirst(c => c.Type == ClaimTypes.NameIdentifier).Value);
@@ -45,7 +45,7 @@ namespace BiuroPodrozyAPI.Controllers
         }
 
         [HttpGet]
-        [Authorize(Policy = "Atleast18")]
+        //[Authorize(Policy = "Atleast18")]
         public ActionResult<IEnumerable<TravelAgencyDto>> GetAll()
         {
             var travelAgencyDtos = _travelAgencyService.GetAll();
@@ -54,7 +54,7 @@ namespace BiuroPodrozyAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        [AllowAnonymous]
+        //[AllowAnonymous]
         public ActionResult<TravelAgencyDto> GetTravelAgencyById([FromRoute] int id)
         {
             var travelAgency = _travelAgencyService.GetById(id);

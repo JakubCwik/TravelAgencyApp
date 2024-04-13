@@ -1,0 +1,128 @@
+2024-04-09 08:42:14.9370 Info Message Template Auto Format enabled
+2024-04-09 08:42:14.9464 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-09 08:42:14.9688 Info Adding target FileTarget(Name=request-time)
+2024-04-09 08:42:14.9688 Info Adding target FileTarget(Name=exceptions)
+2024-04-09 08:42:14.9751 Info Adding target FileTarget(Name=allfile)
+2024-04-09 08:42:14.9983 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-09 08:42:15.0123 Info Configuration initialized.
+2024-04-09 08:42:15.0203 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-09 09:34:11.0289 Info Message Template Auto Format enabled
+2024-04-09 09:34:11.0376 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-09 09:34:11.0662 Info Adding target FileTarget(Name=request-time)
+2024-04-09 09:34:11.0662 Info Adding target FileTarget(Name=exceptions)
+2024-04-09 09:34:11.0733 Info Adding target FileTarget(Name=allfile)
+2024-04-09 09:34:11.1047 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-09 09:34:11.1227 Info Configuration initialized.
+2024-04-09 09:34:11.1227 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-09 14:31:52.0061 Info Message Template Auto Format enabled
+2024-04-09 14:31:52.0061 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-09 14:31:52.0367 Info Adding target FileTarget(Name=request-time)
+2024-04-09 14:31:52.0367 Info Adding target FileTarget(Name=exceptions)
+2024-04-09 14:31:52.0367 Info Adding target FileTarget(Name=allfile)
+2024-04-09 14:31:52.0659 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-09 14:31:52.0830 Info Configuration initialized.
+2024-04-09 14:31:52.0897 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-09 14:33:52.6055 Info Message Template Auto Format enabled
+2024-04-09 14:33:52.6055 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-09 14:33:52.6375 Info Adding target FileTarget(Name=request-time)
+2024-04-09 14:33:52.6375 Info Adding target FileTarget(Name=exceptions)
+2024-04-09 14:33:52.6375 Info Adding target FileTarget(Name=allfile)
+2024-04-09 14:33:52.6683 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-09 14:33:52.6896 Info Configuration initialized.
+2024-04-09 14:33:52.6957 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-09 14:36:27.9810 Info Message Template Auto Format enabled
+2024-04-09 14:36:27.9913 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-09 14:36:28.0352 Info Adding target FileTarget(Name=request-time)
+2024-04-09 14:36:28.0352 Info Adding target FileTarget(Name=exceptions)
+2024-04-09 14:36:28.0352 Info Adding target FileTarget(Name=allfile)
+2024-04-09 14:36:28.0808 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-09 14:36:28.1041 Info Configuration initialized.
+2024-04-09 14:36:28.1137 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-09 14:38:40.4640 Info Message Template Auto Format enabled
+2024-04-09 14:38:40.4640 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-09 14:38:40.5223 Info Adding target FileTarget(Name=request-time)
+2024-04-09 14:38:40.5266 Info Adding target FileTarget(Name=exceptions)
+2024-04-09 14:38:40.5266 Info Adding target FileTarget(Name=allfile)
+2024-04-09 14:38:40.5640 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-09 14:38:40.5864 Info Configuration initialized.
+2024-04-09 14:38:40.5956 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 09:20:26.3756 Info Message Template Auto Format enabled
+2024-04-10 09:20:26.3823 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 09:20:26.4044 Info Adding target FileTarget(Name=request-time)
+2024-04-10 09:20:26.4044 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 09:20:26.4044 Info Adding target FileTarget(Name=allfile)
+2024-04-10 09:20:26.4330 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 09:20:26.4465 Info Configuration initialized.
+2024-04-10 09:20:26.4521 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 09:32:44.4337 Info Message Template Auto Format enabled
+2024-04-10 09:32:44.4509 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 09:32:44.5526 Info Adding target FileTarget(Name=request-time)
+2024-04-10 09:32:44.5585 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 09:32:44.5585 Info Adding target FileTarget(Name=allfile)
+2024-04-10 09:32:44.6469 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 09:32:44.7027 Info Configuration initialized.
+2024-04-10 09:32:44.7272 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 10:01:11.6359 Info Message Template Auto Format enabled
+2024-04-10 10:01:11.6461 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 10:01:11.7079 Info Adding target FileTarget(Name=request-time)
+2024-04-10 10:01:11.7079 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 10:01:11.7151 Info Adding target FileTarget(Name=allfile)
+2024-04-10 10:01:11.7667 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 10:01:11.8101 Info Configuration initialized.
+2024-04-10 10:01:11.8188 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 10:27:26.6794 Info Message Template Auto Format enabled
+2024-04-10 10:27:26.6794 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 10:27:26.7111 Info Adding target FileTarget(Name=request-time)
+2024-04-10 10:27:26.7111 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 10:27:26.7175 Info Adding target FileTarget(Name=allfile)
+2024-04-10 10:27:26.7410 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 10:27:26.7553 Info Configuration initialized.
+2024-04-10 10:27:26.7626 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 10:46:43.3427 Info Message Template Auto Format enabled
+2024-04-10 10:46:43.3510 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 10:46:43.3748 Info Adding target FileTarget(Name=request-time)
+2024-04-10 10:46:43.3794 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 10:46:43.3794 Info Adding target FileTarget(Name=allfile)
+2024-04-10 10:46:43.4072 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 10:46:43.4224 Info Configuration initialized.
+2024-04-10 10:46:43.4291 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 10:47:44.4410 Info Message Template Auto Format enabled
+2024-04-10 10:47:44.4477 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 10:47:44.4714 Info Adding target FileTarget(Name=request-time)
+2024-04-10 10:47:44.4752 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 10:47:44.4752 Info Adding target FileTarget(Name=allfile)
+2024-04-10 10:47:44.5004 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 10:47:44.5152 Info Configuration initialized.
+2024-04-10 10:47:44.5152 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 11:42:11.7661 Info Message Template Auto Format enabled
+2024-04-10 11:42:11.7788 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 11:42:11.8218 Info Adding target FileTarget(Name=request-time)
+2024-04-10 11:42:11.8264 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 11:42:11.8264 Info Adding target FileTarget(Name=allfile)
+2024-04-10 11:42:11.8649 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 11:42:11.8913 Info Configuration initialized.
+2024-04-10 11:42:11.9033 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 11:42:47.1969 Info Message Template Auto Format enabled
+2024-04-10 11:42:47.2106 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 11:42:47.2685 Info Adding target FileTarget(Name=request-time)
+2024-04-10 11:42:47.2742 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 11:42:47.2742 Info Adding target FileTarget(Name=allfile)
+2024-04-10 11:42:47.3280 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 11:42:47.3648 Info Configuration initialized.
+2024-04-10 11:42:47.3766 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 13:38:17.1519 Info Message Template Auto Format enabled
+2024-04-10 13:38:17.1627 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 13:38:17.2215 Info Adding target FileTarget(Name=request-time)
+2024-04-10 13:38:17.2215 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 13:38:17.2378 Info Adding target FileTarget(Name=allfile)
+2024-04-10 13:38:17.3428 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 13:38:17.3695 Info Configuration initialized.
+2024-04-10 13:38:17.3768 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2024-04-10 13:40:58.6082 Info Message Template Auto Format enabled
+2024-04-10 13:40:58.6082 Info Loading assembly: NLog.Web.AspNetCore
+2024-04-10 13:40:58.6474 Info Adding target FileTarget(Name=request-time)
+2024-04-10 13:40:58.6504 Info Adding target FileTarget(Name=exceptions)
+2024-04-10 13:40:58.6504 Info Adding target FileTarget(Name=allfile)
+2024-04-10 13:40:58.6741 Info Validating config: TargetNames=allfile, exceptions, request-time, ConfigItems=48, FilePath=/app/bin/Debug/net5.0/NLog.config
+2024-04-10 13:40:58.6876 Info Configuration initialized.
+2024-04-10 13:40:58.6936 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False

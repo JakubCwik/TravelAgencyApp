@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiuroPodrozyAPI", "BiuroPod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiuroPodrozyAPI.Tests", "BiuroPodrozyAPI.Tests\BiuroPodrozyAPI.Tests.csproj", "{483CE2F4-16AE-4367-BC17-BB0733459242}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{AF0235F4-CF43-4FA6-A34D-9BEA309569CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{483CE2F4-16AE-4367-BC17-BB0733459242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{483CE2F4-16AE-4367-BC17-BB0733459242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{483CE2F4-16AE-4367-BC17-BB0733459242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0235F4-CF43-4FA6-A34D-9BEA309569CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0235F4-CF43-4FA6-A34D-9BEA309569CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0235F4-CF43-4FA6-A34D-9BEA309569CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0235F4-CF43-4FA6-A34D-9BEA309569CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
